@@ -1,0 +1,18 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore build directory
+build/
+
+#ignore specific csv file
+project1/WDI_CSV_2024_09_25/WDICSV.csv
+project1/WDI_CSV_2024_09_25/WDISeries.csv
+project1/WDI_CSV_2024_09_25/WDIcountry-series.csv
+project1/WDI_CSV_2024_09_25/WDICountry.csv
+project1/WDI_CSV_2024_09_25/WDIseries-time.csv
